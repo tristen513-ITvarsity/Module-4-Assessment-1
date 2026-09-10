@@ -12,3 +12,14 @@ h1{
     text-shadow: 0 0 10px #000000;
     color: white;
 }
+
+/*========================= SUN =========================*/
+
+#sun{
+    position: absolute;
+    z-index: 1000;
+    width: 160px;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -80px;
+}
