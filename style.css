@@ -23,3 +23,23 @@ h1{
     left: 50%;
     margin-left: -80px;
 }
+
+/*========================= NEPTUNE =========================*/
+
+#neptune{
+    width: 66px;
+    height: 66px;
+    margin: 143px;
+    z-index:1000:
+}
+
+#neptune-orbit{
+    position: absolute;
+    width: 1204px;
+    height:1204px;
+    bottom: -512px;
+    left: 50%;
+    margin-left: -602px;
+    border: 1px dotted white;
+    border-radius: 50%;
+}
