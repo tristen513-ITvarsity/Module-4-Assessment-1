@@ -43,3 +43,9 @@ h1{
     border: 1px dotted white;
     border-radius: 50%;
 }
+
+
+/*========================= PLEASE REMOVE =========================*/
+#container{
+transform: scale(0.8, 0.8) translate(0, 700px);
+}
