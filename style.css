@@ -44,8 +44,31 @@ h1{
     border-radius: 50%;
 }
 
-
+#neptune-label{
+    bottom: 692px;
+}
 /*========================= PLEASE REMOVE =========================*/
 #container{
 transform: scale(0.8, 0.8) translate(0, 700px);
+}
+
+/*========================= LABEL BOX =========================*/
+.label-box{
+    position:absolute;
+    width: 150px;
+    left: 50%;
+    margin-left: -75px;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+.label-box a{
+text-decoration: none;
+padding: 0;
+margin: 0;
+}
+
+.label-box a:visited{
+  color: white;  
 }
